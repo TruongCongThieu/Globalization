@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\nine-plus\\Globalization\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{614AD29B-2C8E-452E-878C-75363748F6B5}|Globalization\\Globalization.csproj|c:\\users\\admin\\source\\nine-plus\\globalization\\globalization\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614AD29B-2C8E-452E-878C-75363748F6B5}|Globalization\\Globalization.csproj|solutionrelative:globalization\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614AD29B-2C8E-452E-878C-75363748F6B5}|Globalization\\Globalization.csproj|c:\\users\\admin\\source\\nine-plus\\globalization\\globalization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614AD29B-2C8E-452E-878C-75363748F6B5}|Globalization\\Globalization.csproj|solutionrelative:globalization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614AD29B-2C8E-452E-878C-75363748F6B5}|Globalization\\Globalization.csproj|c:\\users\\admin\\source\\nine-plus\\globalization\\globalization\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614AD29B-2C8E-452E-878C-75363748F6B5}|Globalization\\Globalization.csproj|solutionrelative:globalization\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614AD29B-2C8E-452E-878C-75363748F6B5}|Globalization\\Globalization.csproj|c:\\users\\admin\\source\\nine-plus\\globalization\\globalization\\resources\\views.home.index.vi.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{614AD29B-2C8E-452E-878C-75363748F6B5}|Globalization\\Globalization.csproj|solutionrelative:globalization\\resources\\views.home.index.vi.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614AD29B-2C8E-452E-878C-75363748F6B5}|Globalization\\Globalization.csproj|c:\\users\\admin\\source\\nine-plus\\globalization\\globalization\\resources\\views.home.index.en.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{614AD29B-2C8E-452E-878C-75363748F6B5}|Globalization\\Globalization.csproj|solutionrelative:globalization\\resources\\views.home.index.en.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614AD29B-2C8E-452E-878C-75363748F6B5}|Globalization\\Globalization.csproj|c:\\users\\admin\\source\\nine-plus\\globalization\\globalization\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{614AD29B-2C8E-452E-878C-75363748F6B5}|Globalization\\Globalization.csproj|solutionrelative:globalization\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\nine-plus\\Globalization\\Globalization\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Globalization\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\nine-plus\\Globalization\\Globalization\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Globalization\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T04:29:38.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Views.Home.Index.vi.resx",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\nine-plus\\Globalization\\Globalization\\Resources\\Views.Home.Index.vi.resx",
+              "RelativeDocumentMoniker": "Globalization\\Resources\\Views.Home.Index.vi.resx",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\nine-plus\\Globalization\\Globalization\\Resources\\Views.Home.Index.vi.resx",
+              "RelativeToolTip": "Globalization\\Resources\\Views.Home.Index.vi.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-27T04:21:58.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\nine-plus\\Globalization\\Globalization\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Globalization\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\nine-plus\\Globalization\\Globalization\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Globalization\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T04:22:11.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\nine-plus\\Globalization\\Globalization\\Program.cs",
+              "RelativeDocumentMoniker": "Globalization\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\nine-plus\\Globalization\\Globalization\\Program.cs",
+              "RelativeToolTip": "Globalization\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAqwBkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T04:17:19.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Views.Home.Index.en.resx",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\nine-plus\\Globalization\\Globalization\\Resources\\Views.Home.Index.en.resx",
+              "RelativeDocumentMoniker": "Globalization\\Resources\\Views.Home.Index.en.resx",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\nine-plus\\Globalization\\Globalization\\Resources\\Views.Home.Index.en.resx",
+              "RelativeToolTip": "Globalization\\Resources\\Views.Home.Index.en.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-27T04:21:12.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\nine-plus\\Globalization\\Globalization\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Globalization\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\nine-plus\\Globalization\\Globalization\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Globalization\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T04:22:52.999Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">@ViewData["Welcome"]</h1>
+    <form asp-action="ChangeLanguage" method="post">
+        <button type="submit" name="culture" value="en">English</button>
+        <button type="submit" name="culture" value="vi">Tiếng Việt</button>
+    </form>
+</div>
